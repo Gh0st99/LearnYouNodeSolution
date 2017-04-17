@@ -1,5 +1,8 @@
 # LearnNode
 
+<p align="center"><img src="http://img.hb.aicdn.com/3cc446c20cdfeaf7312273594c69c6c9808b4c732dfe-BICFuo_fw658" alt="FinishTest"/></p>
+
+
 [学习Node](https://nodeschool.io/) 的答案
 
 ### 第一测 ([helloNode.js](https://github.com/Gh0st99/LearnYouNodeSolution/blob/master/helloNode.js))
